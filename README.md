@@ -75,6 +75,12 @@ javac *.java
 java Main
 ```
 
+## Application Screenshot
+
+Example of the console output when running the Task Manager application.
+
+![Task Manager Output](task-manager-output.png)
+
 ## Author
 
 Sushmitha B  
